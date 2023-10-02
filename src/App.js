@@ -1,8 +1,10 @@
+import TodoForm from "./components/TodoForm";
+
 
 function App() {
   return (
     <div>
-    
+    <TodoForm/>
     </div>
   );
 }
